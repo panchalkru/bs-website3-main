@@ -1,0 +1,79 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.txt{text-decoration: none;}
+
+/* font size */
+.fnt1{font-size: 20px !important;}
+
+/* img */
+.img1{background-image: url('img/hero-section-banner.jpg');background-position: center;width:100%;background-size: cover;background-attachment: fixed;}
+
+.div1{height: 100%;width: 100%;background-color: #0000008c;}
+
+/* button */
+.btn1{padding: 15px 30px;border-radius: 10px;border: none;background: #ffc82b;color: white;}
+.btn1:hover{padding: 15px 30px;border-radius: 10px;border: none;background: #ffd014;color: black;transition: 0.5s;}
+
+.btn2{padding: 15px 35px;border-radius: 10px;border: none;background: #ffc82b;color: white;}
+.btn2:hover{padding: 15px 35px;border-radius: 10px;border: none;background: #ffd014;color: black;transition: 0.5s;}
+
+.btn3{padding: 10px 20px;border-radius: 10px;border: none;background: #ffc82b;color: white;}
+.btn3:hover{padding: 10px 20px;border-radius: 10px;border: none;background: #ffd014;color: black;transition: 0.5s;}
+
+.btn4{background: #ffc62bd8;color: white;border: none;padding: 10px 15px;}
+.btn4:hover{background: #ffd014;color: white;border: none;}
+
+
+/* color */
+.clr1{color: white;}
+.clr1:hover{color: #ffd014;}
+
+/* font-size */
+.fnt1{font-size: 20px;}
+
+.my{
+    background-color: rgba(0, 0, 0, 0.36);
+    height: 100%;
+    width: 100%;
+}
+
+.bgi11{
+    background-image: url('img/hotel-single-room.jpg');
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .bgi12{
+    background-image: url('img/executive-suite-free-img.jpg');
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .bgi13{
+    background-image: url('img/double-room-free-img.jpg');
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .bgi14{
+    background-image: url('img/duplex-suite-free-img.jpg');
+    background-position: center;
+    background-size: cover;
+  
+  }
+
+  .h{
+    height: 170px;
+  }
+
+  .bg{background-color: #11202a;}
+  .bs{
+    box-shadow: 10px 0px 10px 1px silver;
+  }
+
+  .bglight{
+    background: #6c757d24
+  }
